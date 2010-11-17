@@ -1,0 +1,223 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5BA5D0E7128C1482002D2CDE /* Banco */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* Banco */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* Banco */,
+		);
+		codeSenseManager = 5BA5D0EE128C14A1002D2CDE /* Code sense */;
+		executables = (
+			5BA5D0E7128C1482002D2CDE /* Banco */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					829,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					789,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 311170178;
+			PBXWorkspaceStateSaveDate = 311170178;
+		};
+		perUserProjectItems = {
+			5BA5D14E128C2F36002D2CDE /* PBXTextBookmark */ = 5BA5D14E128C2F36002D2CDE /* PBXTextBookmark */;
+			5BA5D191128C379C002D2CDE /* PBXTextBookmark */ = 5BA5D191128C379C002D2CDE /* PBXTextBookmark */;
+			5BA5D19C128C3BA1002D2CDE /* PBXTextBookmark */ = 5BA5D19C128C3BA1002D2CDE /* PBXTextBookmark */;
+			5BA5D1A4128C3C48002D2CDE /* PBXTextBookmark */ = 5BA5D1A4128C3C48002D2CDE /* PBXTextBookmark */;
+			5BA5D1AF128C5AC9002D2CDE /* PBXTextBookmark */ = 5BA5D1AF128C5AC9002D2CDE /* PBXTextBookmark */;
+			5BA5D1B0128C5AC9002D2CDE /* PBXTextBookmark */ = 5BA5D1B0128C5AC9002D2CDE /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5BA5D0ED128C14A1002D2CDE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* Banco.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1007, 464}}";
+			sepNavSelRange = "{51, 0}";
+			sepNavVisRange = "{0, 622}";
+			sepNavWindowFrame = "{{15, 0}, {750, 778}}";
+		};
+	};
+	5BA5D0E7128C1482002D2CDE /* Banco */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Banco;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	5BA5D0ED128C14A1002D2CDE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5BA5D0EE128C14A1002D2CDE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5BA5D0FD128C164B002D2CDE /* Conta.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1007, 464}}";
+			sepNavSelRange = "{328, 0}";
+			sepNavVisRange = "{0, 500}";
+		};
+	};
+	5BA5D0FE128C164B002D2CDE /* Conta.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {439, 702}}";
+			sepNavSelRange = "{777, 0}";
+			sepNavVisRange = "{474, 236}";
+		};
+	};
+	5BA5D107128C1988002D2CDE /* ContaTest.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1007, 464}}";
+			sepNavSelRange = "{218, 0}";
+			sepNavVisRange = "{0, 228}";
+		};
+	};
+	5BA5D108128C1988002D2CDE /* ContaTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {467, 754}}";
+			sepNavSelRange = "{589, 0}";
+			sepNavVisRange = "{286, 303}";
+		};
+	};
+	5BA5D11D128C1F69002D2CDE /* Test */ = {
+		activeExec = 0;
+	};
+	5BA5D14E128C2F36002D2CDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BA5D107128C1988002D2CDE /* ContaTest.h */;
+		name = "ContaTest.h: 12";
+		rLen = 0;
+		rLoc = 218;
+		rType = 0;
+		vrLen = 228;
+		vrLoc = 0;
+	};
+	5BA5D191128C379C002D2CDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BA5D108128C1988002D2CDE /* ContaTest.m */;
+		name = "ContaTest.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 769;
+		vrLoc = 0;
+	};
+	5BA5D19C128C3BA1002D2CDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* Banco.m */;
+		name = "Banco.m: 2";
+		rLen = 0;
+		rLoc = 51;
+		rType = 0;
+		vrLen = 622;
+		vrLoc = 0;
+	};
+	5BA5D1A4128C3C48002D2CDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BA5D0FD128C164B002D2CDE /* Conta.h */;
+		name = "Conta.h: 18";
+		rLen = 0;
+		rLoc = 328;
+		rType = 0;
+		vrLen = 500;
+		vrLoc = 0;
+	};
+	5BA5D1AF128C5AC9002D2CDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BA5D0FE128C164B002D2CDE /* Conta.m */;
+		name = "Conta.m: 15";
+		rLen = 0;
+		rLoc = 204;
+		rType = 0;
+		vrLen = 534;
+		vrLoc = 0;
+	};
+	5BA5D1B0128C5AC9002D2CDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BA5D0FE128C164B002D2CDE /* Conta.m */;
+		name = "Conta.m: 51";
+		rLen = 0;
+		rLoc = 773;
+		rType = 0;
+		vrLen = 493;
+		vrLoc = 289;
+	};
+	8DD76F960486AA7600D96B5E /* Banco */ = {
+		activeExec = 0;
+		executables = (
+			5BA5D0E7128C1482002D2CDE /* Banco */,
+		);
+	};
+}

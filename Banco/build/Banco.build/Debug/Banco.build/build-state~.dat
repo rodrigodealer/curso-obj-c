@@ -1,0 +1,123 @@
+TBanco
+v7
+r0
+t311171010.359386
+cCheck dependencies
+cProcessPCH /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Banco_Prefix-alnfncirisdhspaooamgtttjwqbi/Banco_Prefix.pch.gch Banco_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Banco.build/Debug/Banco.build/Objects-normal/x86_64/Banco.o /Users/rodrigo/curso-obj-c/Banco/Banco.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Banco.build/Debug/Banco.build/Objects-normal/x86_64/Conta.o /Users/rodrigo/curso-obj-c/Banco/Conta.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/rodrigo/curso-obj-c/Banco/build/Debug/Banco normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C46BD4600000000000013E6
+t1279704390
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BC1384E0000000000B37440
+t1270954062
+s11760704
+
+N/Users/rodrigo/curso-obj-c/Banco/Banco.m
+c000000004CDBDD0200000000000000EA
+t1289477378
+s234
+i<Foundation/Foundation.h>
+
+N/Users/rodrigo/curso-obj-c/Banco/Banco_Prefix.pch
+c000000004CDBDD020000000000000098
+t1289477378
+s152
+i<Foundation/Foundation.h>
+
+N/Users/rodrigo/curso-obj-c/Banco/Conta.h
+c000000004CDBDF970000000000000104
+t1289478039
+s260
+i<Foundation/Foundation.h>
+
+N/Users/rodrigo/curso-obj-c/Banco/Conta.m
+c000000004CDBE03E000000000000012C
+t1289478206
+s300
+i"Conta.h"
+
+N/Users/rodrigo/curso-obj-c/Banco/build/Banco.build/Debug/Banco.build/Objects-normal/x86_64/Banco.LinkFileList
+c000000004CDBE03E00000000000000C6
+t1289478206
+s198
+
+N/Users/rodrigo/curso-obj-c/Banco/build/Banco.build/Debug/Banco.build/Objects-normal/x86_64/Banco.o
+t1289478209
+s6940
+
+N/Users/rodrigo/curso-obj-c/Banco/build/Banco.build/Debug/Banco.build/Objects-normal/x86_64/Conta.o
+t1289478209
+s6940
+
+N/Users/rodrigo/curso-obj-c/Banco/build/Debug/Banco
+t1289478210
+s10152
+
+N/var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Banco_Prefix-alnfncirisdhspaooamgtttjwqbi/Banco_Prefix.pch.gch
+t1289478209
+s41401104
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311171006#311171006#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Banco.build/Debug/Banco.build/Objects-normal/x86_64/Banco.o /Users/rodrigo/curso-obj-c/Banco/Banco.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s311171009.467259
+e311171009.699922
+r1
+xCompileC
+xbuild/Banco.build/Debug/Banco.build/Objects-normal/x86_64/Banco.o
+x/Users/rodrigo/curso-obj-c/Banco/Banco.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/rodrigo/curso-obj-c/Banco/Banco.m311171009#311171009#0(0"0(0#0#40"/Users/rodrigo/curso-obj-c/Banco/Banco.m7164770994080724992#1346"    cd /Users/rodrigo/curso-obj-c/Banco    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/rodrigo/curso-obj-c/Banco/build/Banco.build/Debug/Banco.build/Banco-generated-files.hmap -I/Users/rodrigo/curso-obj-c/Banco/build/Banco.build/Debug/Banco.build/Banco-own-target-headers.hmap -I/Users/rodrigo/curso-obj-c/Banco/build/Banco.build/Debug/Banco.build/Banco-all-target-headers.hmap -iquote /Users/rodrigo/curso-obj-c/Banco/build/Banco.build/Debug/Banco.build/Banco-project-headers.hmap -F/Users/rodrigo/curso-obj-c/Banco/build/Debug -I/Users/rodrigo/curso-obj-c/Banco/build/Debug/include -I/Users/rodrigo/curso-obj-c/Banco/build/Banco.build/Debug/Banco.build/DerivedSources/x86_64 -I/Users/rodrigo/curso-obj-c/Banco/build/Banco.build/Debug/Banco.build/DerivedSources -include /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Banco_Prefix-alnfncirisdhspaooamgtttjwqbi/Banco_Prefix.pch -c /Users/rodrigo/curso-obj-c/Banco/Banco.m -o /Users/rodrigo/curso-obj-c/Banco/build/Banco.build/Debug/Banco.build/Objects-normal/x86_64/Banco.o0#
+
+CCompileC build/Banco.build/Debug/Banco.build/Objects-normal/x86_64/Conta.o /Users/rodrigo/curso-obj-c/Banco/Conta.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s311171009.468552
+e311171009.717494
+r1
+xCompileC
+xbuild/Banco.build/Debug/Banco.build/Objects-normal/x86_64/Conta.o
+x/Users/rodrigo/curso-obj-c/Banco/Conta.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/rodrigo/curso-obj-c/Banco/Conta.m311171009#311171009#0(0"0(0#0#40"/Users/rodrigo/curso-obj-c/Banco/Conta.m8613242912#1346"    cd /Users/rodrigo/curso-obj-c/Banco    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/rodrigo/curso-obj-c/Banco/build/Banco.build/Debug/Banco.build/Banco-generated-files.hmap -I/Users/rodrigo/curso-obj-c/Banco/build/Banco.build/Debug/Banco.build/Banco-own-target-headers.hmap -I/Users/rodrigo/curso-obj-c/Banco/build/Banco.build/Debug/Banco.build/Banco-all-target-headers.hmap -iquote /Users/rodrigo/curso-obj-c/Banco/build/Banco.build/Debug/Banco.build/Banco-project-headers.hmap -F/Users/rodrigo/curso-obj-c/Banco/build/Debug -I/Users/rodrigo/curso-obj-c/Banco/build/Debug/include -I/Users/rodrigo/curso-obj-c/Banco/build/Banco.build/Debug/Banco.build/DerivedSources/x86_64 -I/Users/rodrigo/curso-obj-c/Banco/build/Banco.build/Debug/Banco.build/DerivedSources -include /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Banco_Prefix-alnfncirisdhspaooamgtttjwqbi/Banco_Prefix.pch -c /Users/rodrigo/curso-obj-c/Banco/Conta.m -o /Users/rodrigo/curso-obj-c/Banco/build/Banco.build/Debug/Banco.build/Objects-normal/x86_64/Conta.o0#
+
+CLd /Users/rodrigo/curso-obj-c/Banco/build/Debug/Banco normal x86_64
+s311171009.717589
+e311171010.359318
+r1
+xLd
+x/Users/rodrigo/curso-obj-c/Banco/build/Debug/Banco
+xnormal
+xx86_64
+lSLF07#2@55"Link /Users/rodrigo/curso-obj-c/Banco/build/Debug/Banco311171009#311171010#0(0"0(0#0#0"8618959136#482"    cd /Users/rodrigo/curso-obj-c/Banco    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/rodrigo/curso-obj-c/Banco/build/Debug -F/Users/rodrigo/curso-obj-c/Banco/build/Debug -filelist /Users/rodrigo/curso-obj-c/Banco/build/Banco.build/Debug/Banco.build/Objects-normal/x86_64/Banco.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/rodrigo/curso-obj-c/Banco/build/Debug/Banco0#
+
+CProcessPCH /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Banco_Prefix-alnfncirisdhspaooamgtttjwqbi/Banco_Prefix.pch.gch Banco_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s311171006.539200
+e311171009.466988
+r1
+xProcessPCH
+x/var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Banco_Prefix-alnfncirisdhspaooamgtttjwqbi/Banco_Prefix.pch.gch
+xBanco_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Banco_Prefix.pch311171006#311171009#0(0"0(0#0#49"/Users/rodrigo/curso-obj-c/Banco/Banco_Prefix.pch7378429254040511488#1258"    cd /Users/rodrigo/curso-obj-c/Banco    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/rodrigo/curso-obj-c/Banco/build/Banco.build/Debug/Banco.build/Banco-generated-files.hmap -I/Users/rodrigo/curso-obj-c/Banco/build/Banco.build/Debug/Banco.build/Banco-own-target-headers.hmap -I/Users/rodrigo/curso-obj-c/Banco/build/Banco.build/Debug/Banco.build/Banco-all-target-headers.hmap -iquote /Users/rodrigo/curso-obj-c/Banco/build/Banco.build/Debug/Banco.build/Banco-project-headers.hmap -F/Users/rodrigo/curso-obj-c/Banco/build/Debug -I/Users/rodrigo/curso-obj-c/Banco/build/Debug/include -I/Users/rodrigo/curso-obj-c/Banco/build/Banco.build/Debug/Banco.build/DerivedSources/x86_64 -I/Users/rodrigo/curso-obj-c/Banco/build/Banco.build/Debug/Banco.build/DerivedSources -c /Users/rodrigo/curso-obj-c/Banco/Banco_Prefix.pch -o /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Banco_Prefix-alnfncirisdhspaooamgtttjwqbi/Banco_Prefix.pch.gch0#
+

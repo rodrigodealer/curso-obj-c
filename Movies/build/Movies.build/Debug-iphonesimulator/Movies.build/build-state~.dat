@@ -1,0 +1,292 @@
+TMovies
+v7
+r0
+t311198928.500453
+cCheck dependencies
+cProcessInfoPlistFile /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/Info.plist Movies-Info.plist
+cCompileXIB /Users/rodrigo/curso-obj-c/Movies/MainWindow.xib
+cCompileXIB /Users/rodrigo/curso-obj-c/Movies/RootViewController.xib
+cProcessPCH /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movies_Prefix-dzadmszbksjfazctpvrltepleofh/Movies_Prefix.pch.gch Movies_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/main.o /Users/rodrigo/curso-obj-c/Movies/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/MoviesAppDelegate.o /Users/rodrigo/curso-obj-c/Movies/Classes/MoviesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/RootViewController.o /Users/rodrigo/curso-obj-c/Movies/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/Movie.o /Users/rodrigo/curso-obj-c/Movies/Classes/Movie.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/Movies normal i386
+cGenerateDSYMFile /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app.dSYM /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/Movies
+cTouch /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/Availability.h
+c000000004C57A0390000000000001A5C
+t1280811065
+s6748
+
+N/Users/rodrigo/curso-obj-c/Movies/Classes/Movie.h
+c000000004CDC4CD200000000000001A3
+t1289506002
+s419
+i<Foundation/Foundation.h>
+
+N/Users/rodrigo/curso-obj-c/Movies/Classes/Movie.m
+c000000004CDC4D1C00000000000001D5
+t1289506076
+s469
+i"Movie.h"
+
+N/Users/rodrigo/curso-obj-c/Movies/Classes/MoviesAppDelegate.h
+c000000004CDC4A4C00000000000001D5
+t1289505356
+s469
+i<UIKit/UIKit.h>
+
+N/Users/rodrigo/curso-obj-c/Movies/Classes/MoviesAppDelegate.m
+c000000004CDC4A4C0000000000000A9E
+t1289505356
+s2718
+i"MoviesAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/rodrigo/curso-obj-c/Movies/Classes/RootViewController.h
+c000000004CDC4A4C00000000000000EF
+t1289505356
+s239
+i<UIKit/UIKit.h>
+
+N/Users/rodrigo/curso-obj-c/Movies/Classes/RootViewController.m
+c000000004CDC4A4C00000000000010C7
+t1289505356
+s4295
+i"RootViewController.h"
+
+N/Users/rodrigo/curso-obj-c/Movies/MainWindow.xib
+c000000004CDC4A4C0000000000005FF0
+t1289505356
+s24560
+
+N/Users/rodrigo/curso-obj-c/Movies/Movies_Prefix.pch
+c000000004CDC4A4C000000000000013E
+t1289505356
+s318
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/rodrigo/curso-obj-c/Movies/RootViewController.xib
+c000000004CDC4A4C0000000000004451
+t1289505356
+s17489
+
+N/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app
+t1289506128
+s238
+
+N/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app.dSYM
+t1289506128
+s102
+
+N/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/Info.plist
+t1289506126
+s587
+
+N/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/MainWindow.nib
+t1289506126
+s2455
+
+N/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/Movies
+t1289506128
+s19016
+
+N/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/PkgInfo
+t1289506126
+s8
+
+N/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/RootViewController.nib
+t1289506126
+s1518
+
+N/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/Movie.o
+t1289506128
+s9496
+
+N/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/Movies.LinkFileList
+c000000004CDC4D4E00000000000001E8
+t1289506126
+s488
+
+N/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/MoviesAppDelegate.o
+t1289506128
+s49404
+
+N/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/RootViewController.o
+t1289506128
+s38104
+
+N/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/main.o
+t1289506128
+s6292
+
+N/Users/rodrigo/curso-obj-c/Movies/main.m
+c000000004CDC4A4C000000000000016D
+t1289505356
+s365
+i<UIKit/UIKit.h>
+
+N/var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movies_Prefix-dzadmszbksjfazctpvrltepleofh/Movies_Prefix.pch.gch
+t1289506128
+s15211536
+
+NMovies-Info.plist
+c000000004CDC4A4C000000000000038D
+t1289505356
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311198926#311198926#0(0"0(0#1#0"8625830368#0"0#
+
+CCompileC build/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/Movie.o /Users/rodrigo/curso-obj-c/Movies/Classes/Movie.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311198928.378470
+e311198928.447751
+r1
+xCompileC
+xbuild/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/Movie.o
+x/Users/rodrigo/curso-obj-c/Movies/Classes/Movie.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/rodrigo/curso-obj-c/Movies/Classes/Movie.m311198928#311198928#0(0"0(0#0#49"/Users/rodrigo/curso-obj-c/Movies/Classes/Movie.m8625882336#1849"    cd /Users/rodrigo/curso-obj-c/Movies    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Movies-generated-files.hmap -I/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Movies-own-target-headers.hmap -I/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Movies-all-target-headers.hmap -iquote /Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Movies-project-headers.hmap -F/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator -I/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/include -I/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/DerivedSources/i386 -I/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/DerivedSources -include /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movies_Prefix-dzadmszbksjfazctpvrltepleofh/Movies_Prefix.pch -c /Users/rodrigo/curso-obj-c/Movies/Classes/Movie.m -o /Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/Movie.o0#
+
+CCompileC build/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/MoviesAppDelegate.o /Users/rodrigo/curso-obj-c/Movies/Classes/MoviesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311198928.286349
+e311198928.378356
+r1
+xCompileC
+xbuild/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/MoviesAppDelegate.o
+x/Users/rodrigo/curso-obj-c/Movies/Classes/MoviesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/rodrigo/curso-obj-c/Movies/Classes/MoviesAppDelegate.m311198928#311198928#0(0"0(0#0#61"/Users/rodrigo/curso-obj-c/Movies/Classes/MoviesAppDelegate.m8626764576#1873"    cd /Users/rodrigo/curso-obj-c/Movies    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Movies-generated-files.hmap -I/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Movies-own-target-headers.hmap -I/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Movies-all-target-headers.hmap -iquote /Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Movies-project-headers.hmap -F/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator -I/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/include -I/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/DerivedSources/i386 -I/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/DerivedSources -include /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movies_Prefix-dzadmszbksjfazctpvrltepleofh/Movies_Prefix.pch -c /Users/rodrigo/curso-obj-c/Movies/Classes/MoviesAppDelegate.m -o /Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/MoviesAppDelegate.o0#
+
+CCompileC build/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/RootViewController.o /Users/rodrigo/curso-obj-c/Movies/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311198928.360244
+e311198928.456565
+r1
+xCompileC
+xbuild/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/RootViewController.o
+x/Users/rodrigo/curso-obj-c/Movies/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/rodrigo/curso-obj-c/Movies/Classes/RootViewController.m311198928#311198928#0(0"0(0#0#62"/Users/rodrigo/curso-obj-c/Movies/Classes/RootViewController.m8626416032#1875"    cd /Users/rodrigo/curso-obj-c/Movies    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Movies-generated-files.hmap -I/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Movies-own-target-headers.hmap -I/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Movies-all-target-headers.hmap -iquote /Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Movies-project-headers.hmap -F/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator -I/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/include -I/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/DerivedSources/i386 -I/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/DerivedSources -include /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movies_Prefix-dzadmszbksjfazctpvrltepleofh/Movies_Prefix.pch -c /Users/rodrigo/curso-obj-c/Movies/Classes/RootViewController.m -o /Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/main.o /Users/rodrigo/curso-obj-c/Movies/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311198928.285301
+e311198928.360141
+r1
+xCompileC
+xbuild/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/main.o
+x/Users/rodrigo/curso-obj-c/Movies/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/rodrigo/curso-obj-c/Movies/main.m311198928#311198928#0(0"0(0#0#40"/Users/rodrigo/curso-obj-c/Movies/main.m8620798656#1839"    cd /Users/rodrigo/curso-obj-c/Movies    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Movies-generated-files.hmap -I/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Movies-own-target-headers.hmap -I/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Movies-all-target-headers.hmap -iquote /Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Movies-project-headers.hmap -F/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator -I/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/include -I/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/DerivedSources/i386 -I/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/DerivedSources -include /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movies_Prefix-dzadmszbksjfazctpvrltepleofh/Movies_Prefix.pch -c /Users/rodrigo/curso-obj-c/Movies/main.m -o /Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/rodrigo/curso-obj-c/Movies/MainWindow.xib
+s311198926.444882
+e311198926.927922
+r1
+xCompileXIB
+x/Users/rodrigo/curso-obj-c/Movies/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib311198926#311198926#0(0"0(0#0#48"/Users/rodrigo/curso-obj-c/Movies/MainWindow.xib8617465152#554"    cd /Users/rodrigo/curso-obj-c/Movies    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/MainWindow.nib /Users/rodrigo/curso-obj-c/Movies/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/rodrigo/curso-obj-c/Movies/RootViewController.xib
+s311198926.445633
+e311198926.913425
+r1
+xCompileXIB
+x/Users/rodrigo/curso-obj-c/Movies/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib311198926#311198926#0(0"0(0#0#56"/Users/rodrigo/curso-obj-c/Movies/RootViewController.xib8617305632#570"    cd /Users/rodrigo/curso-obj-c/Movies    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/RootViewController.nib /Users/rodrigo/curso-obj-c/Movies/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app.dSYM /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/Movies
+s311198928.481310
+e311198928.497420
+r1
+xGenerateDSYMFile
+x/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app.dSYM
+x/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/Movies
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Movies.app.dSYM build/Debug-iphonesimulator/Movies.app/Movies311198928#311198928#0(0"0(0#0#79"/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/Movies8617465408#365"    cd /Users/rodrigo/curso-obj-c/Movies    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/Movies -o /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app.dSYM0#
+
+CLd /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/Movies normal i386
+s311198928.456667
+e311198928.481195
+r1
+xLd
+x/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/Movies
+xnormal
+xi386
+lSLF07#2@84"Link /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/Movies311198928#311198928#0(0"0(0#0#0"8621838624#870"    cd /Users/rodrigo/curso-obj-c/Movies    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator -F/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator -filelist /Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/Movies.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/Movies0#
+
+CProcessInfoPlistFile /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/Info.plist Movies-Info.plist
+s311198926.441206
+e311198926.444798
+r1
+xProcessInfoPlistFile
+x/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/Info.plist
+xMovies-Info.plist
+lSLF07#2@25"Process Movies-Info.plist311198926#311198926#0(0"0(0#0#51"/Users/rodrigo/curso-obj-c/Movies/Movies-Info.plist8618811968#461"    cd /Users/rodrigo/curso-obj-c/Movies    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Movies-Info.plist -genpkginfo /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/Info.plist0#
+
+CProcessPCH /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movies_Prefix-dzadmszbksjfazctpvrltepleofh/Movies_Prefix.pch.gch Movies_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311198926.928058
+e311198928.285149
+r1
+xProcessPCH
+x/var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movies_Prefix-dzadmszbksjfazctpvrltepleofh/Movies_Prefix.pch.gch
+xMovies_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Movies_Prefix.pch311198926#311198928#0(0"0(0#0#51"/Users/rodrigo/curso-obj-c/Movies/Movies_Prefix.pch8621729760#1737"    cd /Users/rodrigo/curso-obj-c/Movies    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Movies-generated-files.hmap -I/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Movies-own-target-headers.hmap -I/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Movies-all-target-headers.hmap -iquote /Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Movies-project-headers.hmap -F/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator -I/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/include -I/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/DerivedSources/i386 -I/Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/DerivedSources -c /Users/rodrigo/curso-obj-c/Movies/Movies_Prefix.pch -o /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movies_Prefix-dzadmszbksjfazctpvrltepleofh/Movies_Prefix.pch.gch0#
+
+CTouch /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app
+s311198928.497528
+e311198928.500416
+r1
+xTouch
+x/Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app
+lSLF07#2@78"Touch /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app311198928#311198928#0(0"0(0#0#0"8614886400#267"    cd /Users/rodrigo/curso-obj-c/Movies    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app0#
+

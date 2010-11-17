@@ -1,0 +1,14 @@
+0ee62c40d22ec255dc5495b697d245d8 a8b87e837a1c3542477dba803ed170bf ffffffffffffffffffffffffffffffff 40804 /Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/DetailViewController.o
+0ee62c40d290c4b0dc5495b697d24885 470cd973087a101b396799fb74f45391 ffffffffffffffffffffffffffffffff 9496 /Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/Movie.o
+0ee62c40d290ce02dc5495b697d2595d 5e742dfba10b308e7f5b6e06f843e610 ffffffffffffffffffffffffffffffff 43360 /Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/RootViewController.o
+0ee62c40d216c561dc5495b697d2569b 215ff8a051b21d333852bf01c6e3deab ffffffffffffffffffffffffffffffff 49404 /Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/MoviesAppDelegate.o
+0ee62c409e74837edc5495b697d25435 f8d5f01da2b4ccb3dc3b53c8ad2217cb ffffffffffffffffffffffffffffffff 6292 /Users/rodrigo/curso-obj-c/Movies/build/Movies.build/Debug-iphonesimulator/Movies.build/Objects-normal/i386/main.o
+00000000000000000000000000000000 9c82453e532b96d3db208c8185fe8f55 ffffffffffffffffffffffffffffffff 102 /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app.dSYM
+ba7b6d6e3ac062760746f3f7abe74b58 12c877fa7d0c08101f35413b0de24efb ffffffffffffffffffffffffffffffff 272 /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app
+66acaef6be29383a397c34024f97ffa0 cd410abfd49e13758ede06a6700b9f97 ffffffffffffffffffffffffffffffff 26080 /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/Movies
+0000000000b3e63900000000000006c9 0ee62c409e796ee6dc5495b697d25a5c ffffffffffffffffffffffffffffffff 15211536 /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movies_Prefix-dzadmszbksjfazctpvrltepleofh/Movies_Prefix.pch.gch
+000000004cdc531e0000000000001877 b2350a2a43b6c7b1ce7d76b010bcc91e ffffffffffffffffffffffffffffffff 1231 /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/DetailViewController.nib
+000000004cdc4a4c0000000000004451 dc2b47e51bfcb68cd71f8994d4196623 ffffffffffffffffffffffffffffffff 1518 /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/RootViewController.nib
+000000004cdc4a4c0000000000005ff0 7f8884e844e16b1aa9863e7750de8784 ffffffffffffffffffffffffffffffff 2455 /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/MainWindow.nib
+00000000000000000000000000000000 09162be69d0b7080cbd977395ddfe0db ffffffffffffffffffffffffffffffff 8 /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/PkgInfo
+00000000000000000000000000000000 09162be69d0b7080cbd977395ddfe0db ffffffffffffffffffffffffffffffff 587 /Users/rodrigo/curso-obj-c/Movies/build/Debug-iphonesimulator/Movies.app/Info.plist

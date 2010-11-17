@@ -1,0 +1,215 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Movies */ = {
+		activeExec = 0;
+		executables = (
+			5BA5D258128C81CC002D2CDE /* Movies */,
+		);
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1007, 464}}";
+			sepNavSelRange = "{318, 0}";
+			sepNavVisRange = "{0, 325}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 2379}}";
+			sepNavSelRange = "{4490, 0}";
+			sepNavVisRange = "{4061, 903}";
+			sepNavWindowFrame = "{{15, 0}, {750, 778}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5BA5D258128C81CC002D2CDE /* Movies */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Movies */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Movies */,
+		);
+		codeSenseManager = 5BA5D269128C81EB002D2CDE /* Code sense */;
+		executables = (
+			5BA5D258128C81CC002D2CDE /* Movies */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					829,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 311198156;
+			PBXWorkspaceStateSaveDate = 311198156;
+		};
+		perUserProjectItems = {
+			5BA5D288128C8AC1002D2CDE /* PBXTextBookmark */ = 5BA5D288128C8AC1002D2CDE /* PBXTextBookmark */;
+			5BA5D289128C8AC1002D2CDE /* PBXTextBookmark */ = 5BA5D289128C8AC1002D2CDE /* PBXTextBookmark */;
+			5BA5D28A128C8AC1002D2CDE /* PBXTextBookmark */ = 5BA5D28A128C8AC1002D2CDE /* PBXTextBookmark */;
+			5BA5D2BD128C9388002D2CDE /* PBXTextBookmark */ = 5BA5D2BD128C9388002D2CDE /* PBXTextBookmark */;
+			5BA5D2C3128C93DD002D2CDE /* PBXTextBookmark */ = 5BA5D2C3128C93DD002D2CDE /* PBXTextBookmark */;
+			5BA5D2C4128C93DD002D2CDE /* PBXTextBookmark */ = 5BA5D2C4128C93DD002D2CDE /* PBXTextBookmark */;
+			5BA5D2C5128C93DD002D2CDE /* PBXTextBookmark */ = 5BA5D2C5128C93DD002D2CDE /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5BA5D268128C81EB002D2CDE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5BA5D258128C81CC002D2CDE /* Movies */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Movies;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	5BA5D268128C81EB002D2CDE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5BA5D269128C81EB002D2CDE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5BA5D26E128C82DF002D2CDE /* Movie.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1007, 464}}";
+			sepNavSelRange = "{412, 0}";
+			sepNavVisRange = "{0, 419}";
+		};
+	};
+	5BA5D26F128C82DF002D2CDE /* Movie.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1007, 464}}";
+			sepNavSelRange = "{305, 0}";
+			sepNavVisRange = "{0, 469}";
+		};
+	};
+	5BA5D283128C8A9E002D2CDE /* DetailViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1007, 464}}";
+			sepNavSelRange = "{190, 0}";
+			sepNavVisRange = "{0, 544}";
+		};
+	};
+	5BA5D284128C8A9E002D2CDE /* DetailViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1001}}";
+			sepNavSelRange = "{328, 0}";
+			sepNavVisRange = "{204, 492}";
+			sepNavWindowFrame = "{{15, 0}, {750, 778}}";
+		};
+	};
+	5BA5D288128C8AC1002D2CDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BA5D26E128C82DF002D2CDE /* Movie.h */;
+		name = "Movie.h: 22";
+		rLen = 0;
+		rLoc = 412;
+		rType = 0;
+		vrLen = 419;
+		vrLoc = 0;
+	};
+	5BA5D289128C8AC1002D2CDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BA5D26F128C82DF002D2CDE /* Movie.m */;
+		name = "Movie.m: 17";
+		rLen = 0;
+		rLoc = 305;
+		rType = 0;
+		vrLen = 469;
+		vrLoc = 0;
+	};
+	5BA5D28A128C8AC1002D2CDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 17";
+		rLen = 0;
+		rLoc = 318;
+		rType = 0;
+		vrLen = 325;
+		vrLoc = 0;
+	};
+	5BA5D2BD128C9388002D2CDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 163";
+		rLen = 0;
+		rLoc = 4490;
+		rType = 0;
+		vrLen = 971;
+		vrLoc = 3808;
+	};
+	5BA5D2C3128C93DD002D2CDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BA5D284128C8A9E002D2CDE /* DetailViewController.m */;
+		name = "DetailViewController.m: 28";
+		rLen = 0;
+		rLoc = 807;
+		rType = 0;
+		vrLen = 830;
+		vrLoc = 1063;
+	};
+	5BA5D2C4128C93DD002D2CDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BA5D283128C8A9E002D2CDE /* DetailViewController.h */;
+		name = "DetailViewController.h: 11";
+		rLen = 0;
+		rLoc = 190;
+		rType = 0;
+		vrLen = 544;
+		vrLoc = 0;
+	};
+	5BA5D2C5128C93DD002D2CDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 163";
+		rLen = 0;
+		rLoc = 4490;
+		rType = 0;
+		vrLen = 903;
+		vrLoc = 4061;
+	};
+}

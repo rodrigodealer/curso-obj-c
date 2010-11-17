@@ -1,0 +1,156 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* BotoesAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1157}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1203}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Botoes */ = {
+		activeExec = 0;
+		executables = (
+			5BA5D1C8128C5B12002D2CDE /* Botoes */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* BotoesViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1007, 464}}";
+			sepNavSelRange = "{351, 0}";
+			sepNavVisRange = "{0, 359}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* BotoesViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {929, 988}}";
+			sepNavSelRange = "{1728, 0}";
+			sepNavVisRange = "{920, 830}";
+			sepNavWindowFrame = "{{15, 0}, {750, 778}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5BA5D1C8128C5B12002D2CDE /* Botoes */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Botoes */;
+		codeSenseManager = 5BA5D1D3128C5B31002D2CDE /* Code sense */;
+		executables = (
+			5BA5D1C8128C5B12002D2CDE /* Botoes */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					751,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 311188242;
+			PBXWorkspaceStateSaveDate = 311188242;
+		};
+		perUserProjectItems = {
+			5BA5D1E5128C677E002D2CDE /* PBXTextBookmark */ = 5BA5D1E5128C677E002D2CDE /* PBXTextBookmark */;
+			5BA5D1E6128C677E002D2CDE /* PBXTextBookmark */ = 5BA5D1E6128C677E002D2CDE /* PBXTextBookmark */;
+			5BA5D1E7128C677E002D2CDE /* XCBuildMessageTextBookmark */ = 5BA5D1E7128C677E002D2CDE /* XCBuildMessageTextBookmark */;
+			5BA5D1E8128C677E002D2CDE /* PBXTextBookmark */ = 5BA5D1E8128C677E002D2CDE /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5BA5D1D2128C5B31002D2CDE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5BA5D1C8128C5B12002D2CDE /* Botoes */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Botoes;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	5BA5D1D2128C5B31002D2CDE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5BA5D1D3128C5B31002D2CDE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5BA5D1E5128C677E002D2CDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* BotoesAppDelegate.m */;
+		name = "BotoesAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1203;
+		vrLoc = 0;
+	};
+	5BA5D1E6128C677E002D2CDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* BotoesViewController.h */;
+		name = "BotoesViewController.h: 19";
+		rLen = 0;
+		rLoc = 351;
+		rType = 0;
+		vrLen = 359;
+		vrLoc = 0;
+	};
+	5BA5D1E7128C677E002D2CDE /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected ']' before 'dealloc'";
+		fRef = 28D7ACF70DDB3853001CB0EB /* BotoesViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 71;
+		rType = 1;
+	};
+	5BA5D1E8128C677E002D2CDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BotoesViewController.m */;
+		name = "BotoesViewController.m: 71";
+		rLen = 0;
+		rLoc = 1728;
+		rType = 0;
+		vrLen = 830;
+		vrLoc = 920;
+	};
+}

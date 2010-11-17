@@ -1,0 +1,256 @@
+TBotoes
+v7
+r0
+t311189079.598345
+cCheck dependencies
+cProcessInfoPlistFile /Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app/Info.plist Botoes-Info.plist
+cCompileXIB /Users/rodrigo/curso-obj-c/Botoes/MainWindow.xib
+cCompileXIB /Users/rodrigo/curso-obj-c/Botoes/BotoesViewController.xib
+cProcessPCH /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Botoes_Prefix-cgnugsrxilslxdamtlucdlzicrun/Botoes_Prefix.pch.gch Botoes_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Botoes.build/Debug-iphonesimulator/Botoes.build/Objects-normal/i386/main.o /Users/rodrigo/curso-obj-c/Botoes/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Botoes.build/Debug-iphonesimulator/Botoes.build/Objects-normal/i386/BotoesAppDelegate.o /Users/rodrigo/curso-obj-c/Botoes/Classes/BotoesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Botoes.build/Debug-iphonesimulator/Botoes.build/Objects-normal/i386/BotoesViewController.o /Users/rodrigo/curso-obj-c/Botoes/Classes/BotoesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app/Botoes normal i386
+cGenerateDSYMFile /Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app.dSYM /Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app/Botoes
+cTouch /Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/rodrigo/curso-obj-c/Botoes/BotoesViewController.xib
+c000000004CDC26C10000000000005B06
+t1289496257
+s23302
+
+N/Users/rodrigo/curso-obj-c/Botoes/Botoes_Prefix.pch
+c000000004CDC239200000000000000B5
+t1289495442
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/rodrigo/curso-obj-c/Botoes/Classes/BotoesAppDelegate.h
+c000000004CDC239200000000000001DE
+t1289495442
+s478
+i<UIKit/UIKit.h>
+
+N/Users/rodrigo/curso-obj-c/Botoes/Classes/BotoesAppDelegate.m
+c000000004CDC23920000000000000A8B
+t1289495442
+s2699
+i"BotoesAppDelegate.h"
+i"BotoesViewController.h"
+
+N/Users/rodrigo/curso-obj-c/Botoes/Classes/BotoesViewController.h
+c000000004CDC239200000000000000F0
+t1289495442
+s240
+i<UIKit/UIKit.h>
+
+N/Users/rodrigo/curso-obj-c/Botoes/Classes/BotoesViewController.m
+c000000004CDC239200000000000005BA
+t1289495442
+s1466
+i"BotoesViewController.h"
+
+N/Users/rodrigo/curso-obj-c/Botoes/MainWindow.xib
+c000000004CDC23920000000000004E1D
+t1289495442
+s19997
+
+N/Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/Objects-normal/i386/Botoes.LinkFileList
+c000000004CDC26D50000000000000176
+t1289496277
+s374
+
+N/Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/Objects-normal/i386/BotoesAppDelegate.o
+t1289496278
+s47720
+
+N/Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/Objects-normal/i386/BotoesViewController.o
+t1289496279
+s34420
+
+N/Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/Objects-normal/i386/main.o
+t1289496278
+s6292
+
+N/Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app
+t1289496279
+s238
+
+N/Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app.dSYM
+t1289496279
+s102
+
+N/Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app/Botoes
+t1289496279
+s16984
+
+N/Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app/BotoesViewController.nib
+t1289496277
+s3866
+
+N/Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app/Info.plist
+t1289496277
+s587
+
+N/Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app/MainWindow.nib
+t1289496277
+s1679
+
+N/Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app/PkgInfo
+t1289496277
+s8
+
+N/Users/rodrigo/curso-obj-c/Botoes/main.m
+c000000004CDC2392000000000000016D
+t1289495442
+s365
+i<UIKit/UIKit.h>
+
+N/var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Botoes_Prefix-cgnugsrxilslxdamtlucdlzicrun/Botoes_Prefix.pch.gch
+t1289496278
+s15211536
+
+NBotoes-Info.plist
+c000000004CDC2392000000000000038D
+t1289495442
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311189077#311189077#0(0"0(0#1#0"8617256544#0"0#
+
+CCompileC build/Botoes.build/Debug-iphonesimulator/Botoes.build/Objects-normal/i386/BotoesAppDelegate.o /Users/rodrigo/curso-obj-c/Botoes/Classes/BotoesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311189078.826023
+e311189078.922145
+r1
+xCompileC
+xbuild/Botoes.build/Debug-iphonesimulator/Botoes.build/Objects-normal/i386/BotoesAppDelegate.o
+x/Users/rodrigo/curso-obj-c/Botoes/Classes/BotoesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/rodrigo/curso-obj-c/Botoes/Classes/BotoesAppDelegate.m311189078#311189078#0(0"0(0#0#61"/Users/rodrigo/curso-obj-c/Botoes/Classes/BotoesAppDelegate.m8616127552#1873"    cd /Users/rodrigo/curso-obj-c/Botoes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/Botoes-generated-files.hmap -I/Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/Botoes-own-target-headers.hmap -I/Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/Botoes-all-target-headers.hmap -iquote /Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/Botoes-project-headers.hmap -F/Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator -I/Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/include -I/Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/DerivedSources/i386 -I/Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/DerivedSources -include /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Botoes_Prefix-cgnugsrxilslxdamtlucdlzicrun/Botoes_Prefix.pch -c /Users/rodrigo/curso-obj-c/Botoes/Classes/BotoesAppDelegate.m -o /Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/Objects-normal/i386/BotoesAppDelegate.o0#
+
+CCompileC build/Botoes.build/Debug-iphonesimulator/Botoes.build/Objects-normal/i386/BotoesViewController.o /Users/rodrigo/curso-obj-c/Botoes/Classes/BotoesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311189078.891834
+e311189079.088089
+r1
+xCompileC
+xbuild/Botoes.build/Debug-iphonesimulator/Botoes.build/Objects-normal/i386/BotoesViewController.o
+x/Users/rodrigo/curso-obj-c/Botoes/Classes/BotoesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/rodrigo/curso-obj-c/Botoes/Classes/BotoesViewController.m311189078#311189079#0(0"0(0#0#64"/Users/rodrigo/curso-obj-c/Botoes/Classes/BotoesViewController.m8615328672#1879"    cd /Users/rodrigo/curso-obj-c/Botoes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/Botoes-generated-files.hmap -I/Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/Botoes-own-target-headers.hmap -I/Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/Botoes-all-target-headers.hmap -iquote /Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/Botoes-project-headers.hmap -F/Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator -I/Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/include -I/Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/DerivedSources/i386 -I/Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/DerivedSources -include /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Botoes_Prefix-cgnugsrxilslxdamtlucdlzicrun/Botoes_Prefix.pch -c /Users/rodrigo/curso-obj-c/Botoes/Classes/BotoesViewController.m -o /Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/Objects-normal/i386/BotoesViewController.o0#
+
+CCompileC build/Botoes.build/Debug-iphonesimulator/Botoes.build/Objects-normal/i386/main.o /Users/rodrigo/curso-obj-c/Botoes/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311189078.824688
+e311189078.891716
+r1
+xCompileC
+xbuild/Botoes.build/Debug-iphonesimulator/Botoes.build/Objects-normal/i386/main.o
+x/Users/rodrigo/curso-obj-c/Botoes/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/rodrigo/curso-obj-c/Botoes/main.m311189078#311189078#0(0"0(0#0#40"/Users/rodrigo/curso-obj-c/Botoes/main.m8616330304#1839"    cd /Users/rodrigo/curso-obj-c/Botoes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/Botoes-generated-files.hmap -I/Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/Botoes-own-target-headers.hmap -I/Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/Botoes-all-target-headers.hmap -iquote /Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/Botoes-project-headers.hmap -F/Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator -I/Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/include -I/Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/DerivedSources/i386 -I/Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/DerivedSources -include /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Botoes_Prefix-cgnugsrxilslxdamtlucdlzicrun/Botoes_Prefix.pch -c /Users/rodrigo/curso-obj-c/Botoes/main.m -o /Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/rodrigo/curso-obj-c/Botoes/BotoesViewController.xib
+s311189077.469009
+e311189077.956854
+r1
+xCompileXIB
+x/Users/rodrigo/curso-obj-c/Botoes/BotoesViewController.xib
+lSLF07#2@35"CompileXIB BotoesViewController.xib311189077#311189077#0(0"0(0#0#58"/Users/rodrigo/curso-obj-c/Botoes/BotoesViewController.xib8621960704#574"    cd /Users/rodrigo/curso-obj-c/Botoes    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app/BotoesViewController.nib /Users/rodrigo/curso-obj-c/Botoes/BotoesViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/rodrigo/curso-obj-c/Botoes/MainWindow.xib
+s311189077.468238
+e311189077.881933
+r1
+xCompileXIB
+x/Users/rodrigo/curso-obj-c/Botoes/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib311189077#311189077#0(0"0(0#0#48"/Users/rodrigo/curso-obj-c/Botoes/MainWindow.xib8614793216#554"    cd /Users/rodrigo/curso-obj-c/Botoes    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app/MainWindow.nib /Users/rodrigo/curso-obj-c/Botoes/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app.dSYM /Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app/Botoes
+s311189079.516800
+e311189079.595125
+r1
+xGenerateDSYMFile
+x/Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app.dSYM
+x/Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app/Botoes
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Botoes.app.dSYM build/Debug-iphonesimulator/Botoes.app/Botoes311189079#311189079#0(0"0(0#0#79"/Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app/Botoes8619747904#365"    cd /Users/rodrigo/curso-obj-c/Botoes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app/Botoes -o /Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app.dSYM0#
+
+CLd /Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app/Botoes normal i386
+s311189079.088246
+e311189079.516702
+r1
+xLd
+x/Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app/Botoes
+xnormal
+xi386
+lSLF07#2@84"Link /Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app/Botoes311189079#311189079#0(0"0(0#0#0"8614639072#870"    cd /Users/rodrigo/curso-obj-c/Botoes    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator -F/Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator -filelist /Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/Objects-normal/i386/Botoes.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app/Botoes0#
+
+CProcessInfoPlistFile /Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app/Info.plist Botoes-Info.plist
+s311189077.464623
+e311189077.468154
+r1
+xProcessInfoPlistFile
+x/Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app/Info.plist
+xBotoes-Info.plist
+lSLF07#2@25"Process Botoes-Info.plist311189077#311189077#0(0"0(0#0#51"/Users/rodrigo/curso-obj-c/Botoes/Botoes-Info.plist8613375424#461"    cd /Users/rodrigo/curso-obj-c/Botoes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Botoes-Info.plist -genpkginfo /Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app/Info.plist0#
+
+CProcessPCH /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Botoes_Prefix-cgnugsrxilslxdamtlucdlzicrun/Botoes_Prefix.pch.gch Botoes_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311189077.957030
+e311189078.824554
+r1
+xProcessPCH
+x/var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Botoes_Prefix-cgnugsrxilslxdamtlucdlzicrun/Botoes_Prefix.pch.gch
+xBotoes_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Botoes_Prefix.pch311189077#311189078#0(0"0(0#0#51"/Users/rodrigo/curso-obj-c/Botoes/Botoes_Prefix.pch8620863616#1737"    cd /Users/rodrigo/curso-obj-c/Botoes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/Botoes-generated-files.hmap -I/Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/Botoes-own-target-headers.hmap -I/Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/Botoes-all-target-headers.hmap -iquote /Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/Botoes-project-headers.hmap -F/Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator -I/Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/include -I/Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/DerivedSources/i386 -I/Users/rodrigo/curso-obj-c/Botoes/build/Botoes.build/Debug-iphonesimulator/Botoes.build/DerivedSources -c /Users/rodrigo/curso-obj-c/Botoes/Botoes_Prefix.pch -o /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Botoes_Prefix-cgnugsrxilslxdamtlucdlzicrun/Botoes_Prefix.pch.gch0#
+
+CTouch /Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app
+s311189079.595216
+e311189079.598300
+r1
+xTouch
+x/Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app
+lSLF07#2@78"Touch /Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app311189079#311189079#0(0"0(0#0#0"8617058400#267"    cd /Users/rodrigo/curso-obj-c/Botoes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/rodrigo/curso-obj-c/Botoes/build/Debug-iphonesimulator/Botoes.app0#
+

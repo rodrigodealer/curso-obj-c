@@ -1,0 +1,255 @@
+TTabbedComponents
+v7
+r0
+t311197881.809625
+cCheck dependencies
+cProcessInfoPlistFile /Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app/Info.plist TabbedComponents-Info.plist
+cCompileXIB /Users/rodrigo/curso-obj-c/TabbedComponents/MainWindow.xib
+cCompileXIB /Users/rodrigo/curso-obj-c/TabbedComponents/Classes/TextComponentViewController.xib
+cProcessPCH /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbedComponents_Prefix-gjsrnnvqpmzpycazluqibqzwlfmo/TabbedComponents_Prefix.pch.gch TabbedComponents_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/Objects-normal/i386/main.o /Users/rodrigo/curso-obj-c/TabbedComponents/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/Objects-normal/i386/TabbedComponentsAppDelegate.o /Users/rodrigo/curso-obj-c/TabbedComponents/Classes/TabbedComponentsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/Objects-normal/i386/TextComponentViewController.o /Users/rodrigo/curso-obj-c/TabbedComponents/Classes/TextComponentViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app/TabbedComponents normal i386
+cGenerateDSYMFile /Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app.dSYM /Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app/TabbedComponents
+cTouch /Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/rodrigo/curso-obj-c/TabbedComponents/Classes/TabbedComponentsAppDelegate.h
+c000000004CDC30D300000000000001D6
+t1289498835
+s470
+i<UIKit/UIKit.h>
+
+N/Users/rodrigo/curso-obj-c/TabbedComponents/Classes/TabbedComponentsAppDelegate.m
+c000000004CDC31BB0000000000000A40
+t1289499067
+s2624
+i"TabbedComponentsAppDelegate.h"
+
+N/Users/rodrigo/curso-obj-c/TabbedComponents/Classes/TextComponentViewController.h
+c000000004CDC3A2C000000000000020F
+t1289501228
+s527
+i<UIKit/UIKit.h>
+
+N/Users/rodrigo/curso-obj-c/TabbedComponents/Classes/TextComponentViewController.m
+c000000004CDC487000000000000008F7
+t1289504880
+s2295
+i"TextComponentViewController.h"
+
+N/Users/rodrigo/curso-obj-c/TabbedComponents/Classes/TextComponentViewController.xib
+c000000004CDC48BC00000000000074F3
+t1289504956
+s29939
+
+N/Users/rodrigo/curso-obj-c/TabbedComponents/MainWindow.xib
+c000000004CDC37D70000000000006445
+t1289500631
+s25669
+
+N/Users/rodrigo/curso-obj-c/TabbedComponents/TabbedComponents_Prefix.pch
+c000000004CDC304700000000000000C9
+t1289498695
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app
+t1289504964
+s238
+
+N/Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app.dSYM
+t1289504881
+s102
+
+N/Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app/Info.plist
+t1289499469
+s633
+
+N/Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app/MainWindow.nib
+t1289500751
+s3045
+
+N/Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app/PkgInfo
+t1289499469
+s8
+
+N/Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app/TabbedComponents
+t1289504881
+s18944
+
+N/Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app/TextComponentViewController.nib
+t1289504964
+s4845
+
+N/Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/Objects-normal/i386/TabbedComponents.LinkFileList
+c000000004CDC367900000000000001E1
+t1289500281
+s481
+
+N/Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/Objects-normal/i386/TabbedComponentsAppDelegate.o
+t1289499470
+s50896
+
+N/Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/Objects-normal/i386/TextComponentViewController.o
+t1289504881
+s45972
+
+N/Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/Objects-normal/i386/main.o
+t1289499470
+s6312
+
+N/Users/rodrigo/curso-obj-c/TabbedComponents/main.m
+c000000004CDC30470000000000000177
+t1289498695
+s375
+i<UIKit/UIKit.h>
+
+N/var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbedComponents_Prefix-gjsrnnvqpmzpycazluqibqzwlfmo/TabbedComponents_Prefix.pch.gch
+t1289499470
+s15211536
+
+NTabbedComponents-Info.plist
+c000000004CDC3047000000000000038D
+t1289498695
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311197881#311197881#0(0"0(0#1#0"8620487872#0"0#
+
+CCompileC build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/Objects-normal/i386/TabbedComponentsAppDelegate.o /Users/rodrigo/curso-obj-c/TabbedComponents/Classes/TabbedComponentsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311192270.415849
+e311192270.536795
+r1
+xCompileC
+xbuild/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/Objects-normal/i386/TabbedComponentsAppDelegate.o
+x/Users/rodrigo/curso-obj-c/TabbedComponents/Classes/TabbedComponentsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/rodrigo/curso-obj-c/TabbedComponents/Classes/TabbedComponentsAppDelegate.m311192270#311192270#0(0"0(0#0#81"/Users/rodrigo/curso-obj-c/TabbedComponents/Classes/TabbedComponentsAppDelegate.m8625402144#2203"    cd /Users/rodrigo/curso-obj-c/TabbedComponents    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/TabbedComponents-generated-files.hmap -I/Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/TabbedComponents-own-target-headers.hmap -I/Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/TabbedComponents-all-target-headers.hmap -iquote /Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/TabbedComponents-project-headers.hmap -F/Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator -I/Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/include -I/Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/DerivedSources/i386 -I/Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/DerivedSources -include /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbedComponents_Prefix-gjsrnnvqpmzpycazluqibqzwlfmo/TabbedComponents_Prefix.pch -c /Users/rodrigo/curso-obj-c/TabbedComponents/Classes/TabbedComponentsAppDelegate.m -o /Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/Objects-normal/i386/TabbedComponentsAppDelegate.o0#
+
+CCompileC build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/Objects-normal/i386/TextComponentViewController.o /Users/rodrigo/curso-obj-c/TabbedComponents/Classes/TextComponentViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311197681.501987
+e311197681.644436
+r1
+xCompileC
+xbuild/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/Objects-normal/i386/TextComponentViewController.o
+x/Users/rodrigo/curso-obj-c/TabbedComponents/Classes/TextComponentViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/rodrigo/curso-obj-c/TabbedComponents/Classes/TextComponentViewController.m311197681#311197681#0(0"0(0#0#81"/Users/rodrigo/curso-obj-c/TabbedComponents/Classes/TextComponentViewController.m8625692352#2203"    cd /Users/rodrigo/curso-obj-c/TabbedComponents    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/TabbedComponents-generated-files.hmap -I/Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/TabbedComponents-own-target-headers.hmap -I/Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/TabbedComponents-all-target-headers.hmap -iquote /Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/TabbedComponents-project-headers.hmap -F/Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator -I/Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/include -I/Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/DerivedSources/i386 -I/Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/DerivedSources -include /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbedComponents_Prefix-gjsrnnvqpmzpycazluqibqzwlfmo/TabbedComponents_Prefix.pch -c /Users/rodrigo/curso-obj-c/TabbedComponents/Classes/TextComponentViewController.m -o /Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/Objects-normal/i386/TextComponentViewController.o0#
+
+CCompileC build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/Objects-normal/i386/main.o /Users/rodrigo/curso-obj-c/TabbedComponents/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311192270.413971
+e311192270.515109
+r1
+xCompileC
+xbuild/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/Objects-normal/i386/main.o
+x/Users/rodrigo/curso-obj-c/TabbedComponents/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/rodrigo/curso-obj-c/TabbedComponents/main.m311192270#311192270#0(0"0(0#0#50"/Users/rodrigo/curso-obj-c/TabbedComponents/main.m8620626592#2149"    cd /Users/rodrigo/curso-obj-c/TabbedComponents    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/TabbedComponents-generated-files.hmap -I/Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/TabbedComponents-own-target-headers.hmap -I/Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/TabbedComponents-all-target-headers.hmap -iquote /Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/TabbedComponents-project-headers.hmap -F/Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator -I/Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/include -I/Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/DerivedSources/i386 -I/Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/DerivedSources -include /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbedComponents_Prefix-gjsrnnvqpmzpycazluqibqzwlfmo/TabbedComponents_Prefix.pch -c /Users/rodrigo/curso-obj-c/TabbedComponents/main.m -o /Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/rodrigo/curso-obj-c/TabbedComponents/Classes/TextComponentViewController.xib
+s311197763.810253
+e311197764.334845
+r1
+xCompileXIB
+x/Users/rodrigo/curso-obj-c/TabbedComponents/Classes/TextComponentViewController.xib
+lSLF07#2@50"CompileXIB Classes/TextComponentViewController.xib311197763#311197764#0(0"0(0#0#83"/Users/rodrigo/curso-obj-c/TabbedComponents/Classes/TextComponentViewController.xib8613704288#636"    cd /Users/rodrigo/curso-obj-c/TabbedComponents    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app/TextComponentViewController.nib /Users/rodrigo/curso-obj-c/TabbedComponents/Classes/TextComponentViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/rodrigo/curso-obj-c/TabbedComponents/MainWindow.xib
+s311193551.042483
+e311193551.513600
+r1
+xCompileXIB
+x/Users/rodrigo/curso-obj-c/TabbedComponents/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib311193551#311193551#0(0"0(0#0#58"/Users/rodrigo/curso-obj-c/TabbedComponents/MainWindow.xib8626046176#594"    cd /Users/rodrigo/curso-obj-c/TabbedComponents    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app/MainWindow.nib /Users/rodrigo/curso-obj-c/TabbedComponents/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app.dSYM /Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app/TabbedComponents
+s311197681.672403
+e311197681.688997
+r1
+xGenerateDSYMFile
+x/Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app.dSYM
+x/Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app/TabbedComponents
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/TabbedComponents.app.dSYM build/Debug-iphonesimulator/TabbedComponents.app/TabbedComponents311197681#311197681#0(0"0(0#0#109"/Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app/TabbedComponents8624259392#425"    cd /Users/rodrigo/curso-obj-c/TabbedComponents    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app/TabbedComponents -o /Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app.dSYM0#
+
+CLd /Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app/TabbedComponents normal i386
+s311197681.644533
+e311197681.672289
+r1
+xLd
+x/Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app/TabbedComponents
+xnormal
+xi386
+lSLF07#2@114"Link /Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app/TabbedComponents311197681#311197681#0(0"0(0#0#0"8626387328#970"    cd /Users/rodrigo/curso-obj-c/TabbedComponents    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator -F/Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator -filelist /Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/Objects-normal/i386/TabbedComponents.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app/TabbedComponents0#
+
+CProcessInfoPlistFile /Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app/Info.plist TabbedComponents-Info.plist
+s311192269.071709
+e311192269.075000
+r1
+xProcessInfoPlistFile
+x/Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app/Info.plist
+xTabbedComponents-Info.plist
+lSLF07#2@35"Process TabbedComponents-Info.plist311192269#311192269#0(0"0(0#0#71"/Users/rodrigo/curso-obj-c/TabbedComponents/TabbedComponents-Info.plist8618667552#521"    cd /Users/rodrigo/curso-obj-c/TabbedComponents    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TabbedComponents-Info.plist -genpkginfo /Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app/Info.plist0#
+
+CProcessPCH /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbedComponents_Prefix-gjsrnnvqpmzpycazluqibqzwlfmo/TabbedComponents_Prefix.pch.gch TabbedComponents_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311192269.443060
+e311192270.413866
+r1
+xProcessPCH
+x/var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbedComponents_Prefix-gjsrnnvqpmzpycazluqibqzwlfmo/TabbedComponents_Prefix.pch.gch
+xTabbedComponents_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile TabbedComponents_Prefix.pch311192269#311192270#0(0"0(0#0#71"/Users/rodrigo/curso-obj-c/TabbedComponents/TabbedComponents_Prefix.pch8624633216#2027"    cd /Users/rodrigo/curso-obj-c/TabbedComponents    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/TabbedComponents-generated-files.hmap -I/Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/TabbedComponents-own-target-headers.hmap -I/Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/TabbedComponents-all-target-headers.hmap -iquote /Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/TabbedComponents-project-headers.hmap -F/Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator -I/Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/include -I/Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/DerivedSources/i386 -I/Users/rodrigo/curso-obj-c/TabbedComponents/build/TabbedComponents.build/Debug-iphonesimulator/TabbedComponents.build/DerivedSources -c /Users/rodrigo/curso-obj-c/TabbedComponents/TabbedComponents_Prefix.pch -o /var/folders/KR/KRNnJQv7ECebf8OdWDLZsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabbedComponents_Prefix-gjsrnnvqpmzpycazluqibqzwlfmo/TabbedComponents_Prefix.pch.gch0#
+
+CTouch /Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app
+s311197764.335466
+e311197764.338173
+r1
+xTouch
+x/Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app
+lSLF07#2@98"Touch /Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app311197764#311197764#0(0"0(0#0#0"8625853344#297"    cd /Users/rodrigo/curso-obj-c/TabbedComponents    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/rodrigo/curso-obj-c/TabbedComponents/build/Debug-iphonesimulator/TabbedComponents.app0#
+
